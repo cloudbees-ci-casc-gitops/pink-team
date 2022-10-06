@@ -24,6 +24,7 @@ items:
   properties:
   - itemRestrictions:
       allowedTypes:
+      - org.jenkinsci.plugins.workflow.job.WorkflowJob
       - workshop-catalog/container-build
       - workshop-catalog/hugo
       - workshop-catalog/maven
