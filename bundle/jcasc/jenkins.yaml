@@ -18,10 +18,10 @@ jenkins:
       - key: "CASC_BUNDLE_ID"
         value: "${CASC_BUNDLE_ID}"
   quietPeriod: 0
-  systemMessage: 'Jenkins configured using CloudBees CI CasC v1'
+  systemMessage: 'Jenkins configured using CloudBees CI CasC v2'
 unclassified:
   headerLabel:
-    text: "${GITHUB_REPO} - v1"
+    text: "${GITHUB_REPO} - v2"
   hibernationConfiguration:
     activities:
     - "build"
