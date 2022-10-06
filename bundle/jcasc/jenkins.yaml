@@ -22,3 +22,9 @@ jenkins:
 unclassified:
   headerLabel:
     text: "${GITHUB_REPO} - v1"
+  hibernationConfiguration:
+    activities:
+    - "build"
+    - "web"
+    enabled: false
+    gracePeriod: 2400
