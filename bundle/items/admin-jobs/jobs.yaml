@@ -24,7 +24,6 @@ items:
       key: repoOwner
     - value: update-casc-bundle
       key: name
-    - value: controller
+    - value: ${GITHUB_REPO}
       key: repository
-    - value: cloudbees-ci-previews-demo-github-app
-      key: githubCredentialId
+    - value: cbci-casc-gitops-github-app
