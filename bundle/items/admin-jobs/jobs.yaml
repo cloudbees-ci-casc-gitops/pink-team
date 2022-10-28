@@ -27,3 +27,4 @@ items:
     - value: ${GITHUB_REPO}
       key: repository
     - value: cbci-casc-gitops-github-app
+      key: githubCredentialId
