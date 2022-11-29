@@ -9,6 +9,7 @@ items:
       users:
       - kmadel
       - kmadel-admin
+      - beedemo-dev
     roles:
     - name: browse
       grantedAt: current
