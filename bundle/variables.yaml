@@ -2,4 +2,4 @@ variables:
 - team: REPLACE_REPO
 - admin-user: REPLACE_REPO-admin
 - manager-user: REPLACE_REPO-manager
-- dev-user: REPLACE_REPO-dev
+- dev-user: beedemo-dev
